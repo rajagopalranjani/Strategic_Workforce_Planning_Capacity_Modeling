@@ -20,7 +20,7 @@ This is where **Strategic Workforce Planning (SWFP)** becomes a critical busines
 
 ## What Is Strategic Workforce Planning?
 
-Strategic Workforce Planning translates business objectives and anticipated operational demand into actionable workforce requirements—ensuring that organizations have the **right skills, right capacity, right workforce mix, at the right time and cost**.
+Strategic Workforce Planning translates business objectives and anticipated operational demand into actionable workforce requirements-ensuring that organizations have the **right skills, right capacity, right workforce mix, at the right time and cost**.
 
 Unlike traditional headcount planning, which primarily measures current employees, vacancies, and approved positions, SWFP evaluates whether the organization can support future business requirements.
 
