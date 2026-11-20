@@ -197,7 +197,7 @@ The application produces data-grounded outputs using the available synthetic dat
 
 **[Interactive Tableau Workforce Planning Dashboard](https://public.tableau.com/app/profile/ranjani.rajagopal/viz/EmployeeWorkforcePlanningDashboard-DemandSupplyAnalysis/GapAnalysis)**
 
-**[Free Workforce Scenario Planner](https://rajagopalranjani.github.io/Strategic_Workforce_Planning_Capacity_Modelling/)**
+**[Free Workforce Scenario Planner](https://rajagopalranjani.github.io/Strategic_Workforce_Planning_Capacity_Modeling/)**
 
 *The project uses synthetic data and is intended for analytical demonstration and portfolio purposes.*
 
