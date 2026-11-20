@@ -2,9 +2,9 @@
 
 ### From Reactive Headcount Reporting to Predictive Workforce, Financial & Operational Decision Intelligence
 
-**What if an organization's greatest barrier to growth isn't its strategy, technology, or financial investment—but its inability to anticipate whether it has the workforce capacity to execute its plans?**
+**What if an organization's greatest barrier to growth isn't its strategy, technology, or financial investment-but its inability to anticipate whether it has the workforce capacity to execute its plans?**
 
-Organizations invest heavily in expansion, technology transformation, new products, operational excellence, and long-term growth. Yet one of their most important resources—the workforce—is frequently planned through disconnected processes.
+Organizations invest heavily in expansion, technology transformation, new products, operational excellence, and long-term growth. Yet one of their most important resources-the workforce-is frequently planned through disconnected processes.
 
 Finance develops budgets. Business leaders forecast demand. Human Resources monitors headcount. Talent Acquisition manages recruitment. Operations evaluates capacity and productivity.
 
